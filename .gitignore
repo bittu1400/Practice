@@ -10,3 +10,5 @@ Creator_Analysis/.gitignore
 TED_Talks/.idea
 TED_Talks/.venv
 TED_Talks/archive
+
+.idea
